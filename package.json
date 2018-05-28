@@ -1,0 +1,19 @@
+{
+  "name": "jest-snapshot-prop-matchers-lesson",
+  "version": "1.0.0",
+  "description":
+    "Source code for egghead lesson on Jest's snapshot property matchers feature",
+  "main": "index.js",
+  "author": "Andy Van Slaars",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^23.0.1"
+  },
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
