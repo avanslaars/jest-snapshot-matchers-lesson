@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createPerson Creates a person object 1`] = `
+Object {
+  "createdAt": Any<Date>,
+  "firstName": "John",
+  "id": Any<String>,
+  "lastName": "Smith",
+}
+`;
